@@ -1,0 +1,31 @@
+name: layout
+description: >
+  Sample app from "Building Layouts", https://flutter.io/docs/development/ui/layout.
+version: 1.0.0
+
+environment:
+  sdk: '>=2.17.0-0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+
+flutter:
+  uses-material-design: true
+  assets: 
+  - image/india0.jpeg
+  - image/india1.jpeg
+  - image/india2.jpeg
+  - image/india4.jpeg
+  - image/india5.jpeg
+  - image/india6.jpeg
+  - image/india7.jpeg
+  - image/india8.jpeg
+
+
